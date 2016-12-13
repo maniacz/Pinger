@@ -1,0 +1,12 @@
+D:\Documents and Settings\kipkal\GIT\Pinger\bin\Debug\Pinger.exe.config
+D:\Documents and Settings\kipkal\GIT\Pinger\obj\Debug\Pinger.csprojResolveAssemblyReference.cache
+D:\Documents and Settings\kipkal\GIT\Pinger\obj\Debug\Pinger.Form1.resources
+D:\Documents and Settings\kipkal\GIT\Pinger\obj\Debug\Pinger.Properties.Resources.resources
+D:\Documents and Settings\kipkal\GIT\Pinger\obj\Debug\Pinger.csproj.GenerateResource.Cache
+D:\Documents and Settings\kipkal\GIT\Pinger\bin\Debug\Pinger.exe
+D:\Documents and Settings\kipkal\GIT\Pinger\bin\Debug\Pinger.pdb
+D:\Documents and Settings\kipkal\GIT\Pinger\obj\Debug\Pinger.exe
+D:\Documents and Settings\kipkal\GIT\Pinger\obj\Debug\Pinger.pdb
+D:\Documents and Settings\kipkal\GitHub\Pinger\bin\Debug\Pinger.exe.config
+D:\Documents and Settings\kipkal\GitHub\Pinger\obj\Debug\Pinger.exe
+D:\Documents and Settings\kipkal\GitHub\Pinger\obj\Debug\Pinger.pdb
